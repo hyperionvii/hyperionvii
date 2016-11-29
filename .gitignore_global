@@ -90,4 +90,3 @@ ENV/
 # Rope project settings
 .ropeproject
 
-git config --global core.excludesfile ~/.gitignore_global
